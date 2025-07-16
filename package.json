@@ -1,0 +1,35 @@
+{
+  "name": "grunt-image-sitemap",
+  "version": "0.1.0",
+  "description": "A Grunt plugin to generate an XML image sitemap.",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gruntplugin",
+    "sitemap",
+    "image",
+    "seo"
+  ],
+    "homepage": "https://github.com/evijay/grunt-image-sitemap",
+  "author": {
+    "name": "ViJaY aHiRe (v_^)",
+    "email": "callat_evijay@yahoo.co.in",
+    "url": "https://x.com/vijay_ahire"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/evijay/grunt-image-sitemap.git"
+  },
+  "bugs": {
+    "url": "https://github.com/evijay/grunt-image-sitemap/issues"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "xmlbuilder": "^15.1.1"
+  },
+  "peerDependencies": {
+    "grunt": ">=0.4.0"
+  }
+}
